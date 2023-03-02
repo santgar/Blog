@@ -6,9 +6,14 @@ h1
 }
 
 p {
-    color: beige;
-    background-color: blue;
+    color: rgb(243, 243, 13);
+   
 }
 .cabecera {
     color: crimson;
+    border-radius: 1px;
+}
+div{
+    display: flex;
+    flex-direction: column-reverse;
 }

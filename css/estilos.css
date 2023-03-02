@@ -1,14 +1,7 @@
 
-
-
-
-.central {
-    display: flexbox;
-    flex-direction: column-reverse;
-    color: aquamarine;
-    font-size: larger;
-    font-weight: 500;
-    background-color: springgreen;
-    padding: 50%;
-
+.cabecero{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large ;
 }

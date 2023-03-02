@@ -9,3 +9,14 @@ p {
     color: beige;
     background-color: blue;
 }
+
+.central {
+    display: flexbox;
+    flex-direction: column-reverse;
+    color: aquamarine;
+    font-size: larger;
+    font-weight: 500;
+    background-color: springgreen;
+    padding: 50%;
+
+}

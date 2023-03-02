@@ -4,3 +4,8 @@ h1
     text-align: justify;
     font-family: Verdana;
 }
+
+p {
+    color: beige;
+    background-color: blue;
+}

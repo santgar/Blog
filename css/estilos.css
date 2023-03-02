@@ -1,14 +1,6 @@
-h1
-{
-    color: rgb(18, 90, 153);
-    text-align: justify;
-    font-family: Verdana;
-}
 
-p {
-    color: beige;
-    background-color: blue;
-}
+
+
 
 .central {
     display: flexbox;
